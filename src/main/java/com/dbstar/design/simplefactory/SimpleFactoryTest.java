@@ -1,6 +1,6 @@
 package com.dbstar.design.simplefactory;
 
-import com.dbstar.designpattern.constant.ShapeEnum;
+import com.dbstar.design.constant.ShapeEnum;
 
 /**
  * @describe:
